@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saifu/OneDrive/Desktop/NIDOCR/mlruns/940990611600546511/19450e090e7544e582237318453872b9/artifacts
+end_time: 1746522715261
+entry_point_name: ''
+experiment_id: '940990611600546511'
+lifecycle_stage: active
+run_id: 19450e090e7544e582237318453872b9
+run_name: indecisive-wasp-685
+run_uuid: 19450e090e7544e582237318453872b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746522492570
+status: 3
+tags: []
+user_id: saifu

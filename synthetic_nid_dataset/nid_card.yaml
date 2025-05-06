@@ -1,0 +1,5 @@
+names:
+  0: nid_card
+path: C:\Users\saifu\OneDrive\Desktop\NIDOCR\synthetic_nid_dataset
+train: train/images
+val: val/images

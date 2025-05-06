@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saifu/OneDrive/Desktop/NIDOCR/runs/mlflow/655574116996732197/7bbfe193f5ba4396aa0a8da5c4ef3c1b/artifacts
+end_time: 1746522713161
+entry_point_name: ''
+experiment_id: '655574116996732197'
+lifecycle_stage: active
+run_id: 7bbfe193f5ba4396aa0a8da5c4ef3c1b
+run_name: train5
+run_uuid: 7bbfe193f5ba4396aa0a8da5c4ef3c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746522508871
+status: 3
+tags: []
+user_id: saifu

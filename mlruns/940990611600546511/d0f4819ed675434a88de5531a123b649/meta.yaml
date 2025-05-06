@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saifu/OneDrive/Desktop/NIDOCR/mlruns/940990611600546511/d0f4819ed675434a88de5531a123b649/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '940990611600546511'
+lifecycle_stage: active
+run_id: d0f4819ed675434a88de5531a123b649
+run_name: peaceful-hog-355
+run_uuid: d0f4819ed675434a88de5531a123b649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746522172415
+status: 1
+tags: []
+user_id: saifu

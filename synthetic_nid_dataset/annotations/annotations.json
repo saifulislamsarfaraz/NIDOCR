@@ -1,0 +1,1802 @@
+[
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0000.jpg",
+        "bbox": [
+            0.5469125902165196,
+            0.4444444444444444,
+            0.7040898155573376,
+            0.6299892125134844
+        ],
+        "person_data": {
+            "full_name": "MELISSA DANIEL",
+            "nid_number": "934448108770",
+            "date_of_birth": "01/12/1949",
+            "place_of_birth": "NORTH DAVID",
+            "address": "48283 COURTNEY VIADUCT SUITE 705, LAKE PATRICK, MT 51301",
+            "issue_date": "24/10/2021",
+            "expiry_date": "17/12/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0001.jpg",
+        "bbox": [
+            0.49854227405247814,
+            0.4204035874439462,
+            0.8843537414965986,
+            0.7174887892376681
+        ],
+        "person_data": {
+            "full_name": "SARAH WARREN",
+            "nid_number": "596161213011",
+            "date_of_birth": "02/07/1952",
+            "place_of_birth": "CARRIEFORT",
+            "address": "850 NATALIE ORCHARD SUITE 070, LAKE KIMBERLYBERG, AS 03169",
+            "issue_date": "05/09/2020",
+            "expiry_date": "03/03/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0002.jpg",
+        "bbox": [
+            0.4487847222222222,
+            0.35692921236291125,
+            0.7690972222222222,
+            0.5962113659022931
+        ],
+        "person_data": {
+            "full_name": "JULIE WOODS",
+            "nid_number": "893834014718",
+            "date_of_birth": "19/02/1976",
+            "place_of_birth": "NEW MISTY",
+            "address": "503 DAY TURNPIKE SUITE 125, CHEYENNEBOROUGH, AZ 37728",
+            "issue_date": "12/12/2022",
+            "expiry_date": "24/06/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0003.jpg",
+        "bbox": [
+            0.4532535527299925,
+            0.7125506072874493,
+            0.6866118175018698,
+            0.6619433198380567
+        ],
+        "person_data": {
+            "full_name": "JEFFREY WEBSTER",
+            "nid_number": "003402991991",
+            "date_of_birth": "30/09/1952",
+            "place_of_birth": "EAST DANIEL",
+            "address": "0449 CARLOS PARKWAYS APT. 138, MARKFORT, NH 98242",
+            "issue_date": "02/07/2018",
+            "expiry_date": "23/11/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0004.jpg",
+        "bbox": [
+            0.42034700315457413,
+            0.510353227771011,
+            0.7113564668769716,
+            0.7624847746650426
+        ],
+        "person_data": {
+            "full_name": "MICHAEL GARCIA",
+            "nid_number": "627145871281",
+            "date_of_birth": "22/12/1978",
+            "place_of_birth": "EAST LINDSEYLAND",
+            "address": "50675 LOWE CLUB APT. 397, EAST LORI, TN 88058",
+            "issue_date": "02/03/2020",
+            "expiry_date": "15/05/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0005.jpg",
+        "bbox": [
+            0.4435215946843854,
+            0.6357868020304569,
+            0.7790697674418605,
+            0.8807106598984772
+        ],
+        "person_data": {
+            "full_name": "GERALD MILLER",
+            "nid_number": "823212890452",
+            "date_of_birth": "18/09/1954",
+            "place_of_birth": "EAST SARAHMOUTH",
+            "address": "59797 SCHMITT PLAINS, PHAMBERG, AK 74166",
+            "issue_date": "11/02/2025",
+            "expiry_date": "05/02/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0006.jpg",
+        "bbox": [
+            0.5534591194968553,
+            0.6863753213367609,
+            0.9958071278825996,
+            0.922879177377892
+        ],
+        "person_data": {
+            "full_name": "RYAN GARZA",
+            "nid_number": "745771530177",
+            "date_of_birth": "01/12/1959",
+            "place_of_birth": "SOUTH ZACHARY",
+            "address": "PSC 8529, BOX 8065, APO AA 20539",
+            "issue_date": "03/03/2018",
+            "expiry_date": "26/05/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0007.jpg",
+        "bbox": [
+            0.5431034482758621,
+            0.5835835835835835,
+            0.8333333333333334,
+            0.5705705705705706
+        ],
+        "person_data": {
+            "full_name": "LAUREN JAMES",
+            "nid_number": "289449344421",
+            "date_of_birth": "09/12/1939",
+            "place_of_birth": "WEST MATTHEWPORT",
+            "address": "121 BEVERLY GARDENS APT. 660, VINCENTTOWN, CO 60577",
+            "issue_date": "02/07/2017",
+            "expiry_date": "11/09/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0008.jpg",
+        "bbox": [
+            0.4485294117647059,
+            0.5247678018575851,
+            0.7996323529411765,
+            0.8823529411764706
+        ],
+        "person_data": {
+            "full_name": "NICHOLAS SHAW",
+            "nid_number": "939697631906",
+            "date_of_birth": "17/05/1975",
+            "place_of_birth": "EAST TYLERFORT",
+            "address": "USS ANDERSON, FPO AE 56935",
+            "issue_date": "16/04/2016",
+            "expiry_date": "22/08/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0009.jpg",
+        "bbox": [
+            0.5157116451016636,
+            0.6295857988165681,
+            0.8835489833641405,
+            0.863905325443787
+        ],
+        "person_data": {
+            "full_name": "ROBERT BECK",
+            "nid_number": "904119248201",
+            "date_of_birth": "29/11/1985",
+            "place_of_birth": "SANDRALAND",
+            "address": "233 GREER SQUARE, BLAKESTAD, NE 01739",
+            "issue_date": "23/12/2020",
+            "expiry_date": "19/02/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0010.jpg",
+        "bbox": [
+            0.5985853227232537,
+            0.6574307304785895,
+            0.8505747126436781,
+            0.9345088161209067
+        ],
+        "person_data": {
+            "full_name": "PAUL DELACRUZ",
+            "nid_number": "218237679336",
+            "date_of_birth": "12/02/2003",
+            "place_of_birth": "CARLATON",
+            "address": "9110 PERRY FORGES, KRUEGERSIDE, UT 56817",
+            "issue_date": "14/12/2016",
+            "expiry_date": "13/03/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0011.jpg",
+        "bbox": [
+            0.556078431372549,
+            0.5511049723756906,
+            0.6949019607843138,
+            0.8259668508287292
+        ],
+        "person_data": {
+            "full_name": "STEPHEN CLAY",
+            "nid_number": "343352199909",
+            "date_of_birth": "21/11/1982",
+            "place_of_birth": "WEST MICHAELLAND",
+            "address": "359 BOYD KEY, NORTH APRILSTAD, ND 26033",
+            "issue_date": "30/07/2022",
+            "expiry_date": "30/09/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0012.jpg",
+        "bbox": [
+            0.5593803786574871,
+            0.5472972972972973,
+            0.7555938037865749,
+            0.7891891891891892
+        ],
+        "person_data": {
+            "full_name": "JEROME LIU",
+            "nid_number": "239078991104",
+            "date_of_birth": "28/02/1992",
+            "place_of_birth": "NATHANVIEW",
+            "address": "95246 ALVAREZ GREENS APT. 759, DUNCANHAVEN, SD 50373",
+            "issue_date": "29/05/2023",
+            "expiry_date": "17/05/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0013.jpg",
+        "bbox": [
+            0.4978165938864629,
+            0.6181277860326895,
+            0.8296943231441049,
+            1.0668647845468053
+        ],
+        "person_data": {
+            "full_name": "MEGAN JOHNSON",
+            "nid_number": "944805135246",
+            "date_of_birth": "04/12/1979",
+            "place_of_birth": "EAST CATHERINETOWN",
+            "address": "2878 ROGERS HEIGHTS SUITE 672, KENNETHSTAD, DE 21972",
+            "issue_date": "14/07/2021",
+            "expiry_date": "02/05/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0014.jpg",
+        "bbox": [
+            0.5582564962279967,
+            0.573394495412844,
+            0.7627829002514669,
+            0.9785932721712538
+        ],
+        "person_data": {
+            "full_name": "KEVIN CHEN",
+            "nid_number": "720720781928",
+            "date_of_birth": "23/05/1980",
+            "place_of_birth": "PORT DONALD",
+            "address": "178 ANTONIO FALL, PORT SAMUELPORT, GU 11378",
+            "issue_date": "03/04/2016",
+            "expiry_date": "14/07/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0015.jpg",
+        "bbox": [
+            0.5722120658135283,
+            0.6224066390041494,
+            0.8318098720292505,
+            0.8852005532503457
+        ],
+        "person_data": {
+            "full_name": "ROBERT MCCLURE",
+            "nid_number": "731452735018",
+            "date_of_birth": "01/05/1996",
+            "place_of_birth": "LAKE JESSEVIEW",
+            "address": "76117 JACK SQUARE, MORGANMOUTH, WI 59226",
+            "issue_date": "13/10/2023",
+            "expiry_date": "13/07/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0016.jpg",
+        "bbox": [
+            0.5555555555555556,
+            0.6881720430107527,
+            0.9500509683995922,
+            0.6647116324535679
+        ],
+        "person_data": {
+            "full_name": "DONALD MILLER",
+            "nid_number": "591322194841",
+            "date_of_birth": "27/01/2005",
+            "place_of_birth": "NEW TYLERVIEW",
+            "address": "04048 HAMPTON FORD APT. 209, PORT TIMOTHY, VT 88140",
+            "issue_date": "08/04/2017",
+            "expiry_date": "01/05/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0017.jpg",
+        "bbox": [
+            0.4986046511627907,
+            0.6281352235550709,
+            0.8,
+            0.6063249727371864
+        ],
+        "person_data": {
+            "full_name": "DAWN SCHMIDT",
+            "nid_number": "660660825556",
+            "date_of_birth": "18/07/1968",
+            "place_of_birth": "TYLERHAVEN",
+            "address": "1659 ERIK GLENS, WEST PAULA, MP 69200",
+            "issue_date": "26/04/2016",
+            "expiry_date": "07/04/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0018.jpg",
+        "bbox": [
+            0.5885714285714285,
+            0.5675990675990676,
+            0.7559183673469387,
+            0.7785547785547785
+        ],
+        "person_data": {
+            "full_name": "JEFFREY SNOW",
+            "nid_number": "369716791098",
+            "date_of_birth": "20/11/1988",
+            "place_of_birth": "SOUTH VALERIEVILLE",
+            "address": "5771 JAMES PASSAGE, NEW MISTYCHESTER, ID 40988",
+            "issue_date": "06/03/2016",
+            "expiry_date": "08/11/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0019.jpg",
+        "bbox": [
+            0.5707317073170731,
+            0.6650049850448654,
+            0.9034146341463415,
+            0.6660019940179461
+        ],
+        "person_data": {
+            "full_name": "JOHN INGRAM",
+            "nid_number": "239857552684",
+            "date_of_birth": "01/07/1952",
+            "place_of_birth": "BRUCESHIRE",
+            "address": "8518 MICHAEL FALLS, WEST ANDREAMOUTH, AK 30146",
+            "issue_date": "07/09/2015",
+            "expiry_date": "03/06/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0020.jpg",
+        "bbox": [
+            0.5860262008733624,
+            0.5791788856304986,
+            0.7947598253275109,
+            0.9384164222873901
+        ],
+        "person_data": {
+            "full_name": "CANDACE AVERY",
+            "nid_number": "635323493506",
+            "date_of_birth": "04/08/1998",
+            "place_of_birth": "EAST MARKBERG",
+            "address": "402 JOANN RAPID SUITE 124, LAKE SHELBYLAND, SC 47501",
+            "issue_date": "28/01/2021",
+            "expiry_date": "25/07/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0021.jpg",
+        "bbox": [
+            0.5290697674418605,
+            0.6916354556803995,
+            0.7840531561461794,
+            0.8813982521847691
+        ],
+        "person_data": {
+            "full_name": "MIRANDA JONES",
+            "nid_number": "878740774025",
+            "date_of_birth": "08/10/2006",
+            "place_of_birth": "WEST MARY",
+            "address": "68315 GRIFFIN CORNER APT. 399, HUNTERVILLE, CT 64425",
+            "issue_date": "11/04/2020",
+            "expiry_date": "20/10/2030"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0022.jpg",
+        "bbox": [
+            0.4268192968111202,
+            0.4106753812636166,
+            0.7113654946852003,
+            0.6209150326797386
+        ],
+        "person_data": {
+            "full_name": "LAWRENCE DECKER",
+            "nid_number": "554304750242",
+            "date_of_birth": "04/02/1998",
+            "place_of_birth": "RODRIGUEZBURGH",
+            "address": "00106 HEATHER ESTATES SUITE 184, PORT BLAKEBOROUGH, WY 33163",
+            "issue_date": "23/10/2017",
+            "expiry_date": "21/03/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0023.jpg",
+        "bbox": [
+            0.5106177606177607,
+            0.4459613196814562,
+            0.8301158301158301,
+            0.6325369738339022
+        ],
+        "person_data": {
+            "full_name": "RYAN JACKSON",
+            "nid_number": "110138650195",
+            "date_of_birth": "15/01/1993",
+            "place_of_birth": "WEST DREW",
+            "address": "07731 CLAUDIA CROSSING, SOUTH LINDATOWN, TN 90986",
+            "issue_date": "16/08/2019",
+            "expiry_date": "25/04/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0024.jpg",
+        "bbox": [
+            0.48443579766536965,
+            0.5962314939434724,
+            0.8540856031128404,
+            0.7860026917900403
+        ],
+        "person_data": {
+            "full_name": "ANDREW KING",
+            "nid_number": "369165296985",
+            "date_of_birth": "07/05/1974",
+            "place_of_birth": "LESLIEPORT",
+            "address": "6305 MEGAN VILLAGE, FREEMANCHESTER, AL 63622",
+            "issue_date": "15/02/2018",
+            "expiry_date": "05/01/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0025.jpg",
+        "bbox": [
+            0.4110522331566995,
+            0.6617283950617284,
+            0.7009841029523088,
+            0.8246913580246914
+        ],
+        "person_data": {
+            "full_name": "JESSICA SMITH MD",
+            "nid_number": "968059596353",
+            "date_of_birth": "21/08/1963",
+            "place_of_birth": "PORT MICHAELSHIRE",
+            "address": "1560 VICTORIA BROOK, TODDTON, OK 55878",
+            "issue_date": "28/03/2024",
+            "expiry_date": "03/05/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0026.jpg",
+        "bbox": [
+            0.4535472972972973,
+            0.5546875,
+            0.7618243243243243,
+            0.8151041666666666
+        ],
+        "person_data": {
+            "full_name": "ALEXANDER WILLIAMSON",
+            "nid_number": "585411194017",
+            "date_of_birth": "24/07/1973",
+            "place_of_birth": "RYANLAND",
+            "address": "PSC 2585, BOX 1605, APO AE 52201",
+            "issue_date": "27/10/2021",
+            "expiry_date": "02/08/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0027.jpg",
+        "bbox": [
+            0.5320069204152249,
+            0.6421636615811374,
+            0.8166089965397924,
+            0.9791955617198336
+        ],
+        "person_data": {
+            "full_name": "SHELBY GARCIA",
+            "nid_number": "474556396291",
+            "date_of_birth": "07/01/1941",
+            "place_of_birth": "NORTH ANNACHESTER",
+            "address": "76776 SHANNON MOUNTAIN, SOUTH JONATHAN, NC 22959",
+            "issue_date": "16/11/2016",
+            "expiry_date": "18/04/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0028.jpg",
+        "bbox": [
+            0.5308641975308642,
+            0.6518438177874186,
+            0.9021842355175689,
+            0.7787418655097614
+        ],
+        "person_data": {
+            "full_name": "JOANN LEE",
+            "nid_number": "784304411667",
+            "date_of_birth": "15/02/1953",
+            "place_of_birth": "JOHNSONSIDE",
+            "address": "20627 REGINA ROAD SUITE 210, ERINSTAD, IL 66668",
+            "issue_date": "28/08/2024",
+            "expiry_date": "13/08/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0029.jpg",
+        "bbox": [
+            0.624804992199688,
+            0.44260355029585796,
+            0.6786271450858035,
+            0.6745562130177515
+        ],
+        "person_data": {
+            "full_name": "JESSE AYALA",
+            "nid_number": "164819549896",
+            "date_of_birth": "17/03/1997",
+            "place_of_birth": "SOUTH JOSEPH",
+            "address": "205 THOMAS MANORS APT. 507, LAKE MARISSA, GU 58535",
+            "issue_date": "27/11/2023",
+            "expiry_date": "17/06/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0030.jpg",
+        "bbox": [
+            0.527,
+            0.4289044289044289,
+            0.886,
+            0.696969696969697
+        ],
+        "person_data": {
+            "full_name": "JESSICA MYERS",
+            "nid_number": "366396335511",
+            "date_of_birth": "02/05/1946",
+            "place_of_birth": "ANDERSONSIDE",
+            "address": "15412 LOPEZ WELLS SUITE 811, JOEBOROUGH, MA 50379",
+            "issue_date": "13/11/2015",
+            "expiry_date": "24/12/2030"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0031.jpg",
+        "bbox": [
+            0.40625,
+            0.5165562913907285,
+            0.7163461538461539,
+            0.6777041942604857
+        ],
+        "person_data": {
+            "full_name": "MACKENZIE CLARK",
+            "nid_number": "597412008835",
+            "date_of_birth": "11/11/1957",
+            "place_of_birth": "RIGGSSIDE",
+            "address": "8282 SIMMONS FREEWAY SUITE 140, LAKE ADAMFURT, MS 09241",
+            "issue_date": "24/04/2024",
+            "expiry_date": "25/08/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0032.jpg",
+        "bbox": [
+            0.5023474178403756,
+            0.43356643356643354,
+            0.8169014084507042,
+            0.6643356643356644
+        ],
+        "person_data": {
+            "full_name": "JOSEPH CAREY",
+            "nid_number": "263939726986",
+            "date_of_birth": "27/03/1998",
+            "place_of_birth": "DAVIDSTAD",
+            "address": "2943 NICOLE FIELDS, AARONHAVEN, PW 53306",
+            "issue_date": "05/03/2018",
+            "expiry_date": "03/05/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0033.jpg",
+        "bbox": [
+            0.50390625,
+            0.6498855835240275,
+            0.7109375,
+            0.7322654462242563
+        ],
+        "person_data": {
+            "full_name": "THERESA RYAN",
+            "nid_number": "976426162721",
+            "date_of_birth": "03/11/1985",
+            "place_of_birth": "WEST BRITTANYTON",
+            "address": "116 MORROW CREST, WEST SHARONCHESTER, MO 93524",
+            "issue_date": "27/08/2017",
+            "expiry_date": "06/04/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0034.jpg",
+        "bbox": [
+            0.6024590163934426,
+            0.5927710843373494,
+            0.7524590163934426,
+            0.7879518072289157
+        ],
+        "person_data": {
+            "full_name": "JESUS ANDERSON",
+            "nid_number": "254052322538",
+            "date_of_birth": "11/08/1983",
+            "place_of_birth": "NEW BROOKE",
+            "address": "363 CHRISTINA CIRCLES, WEST BARBARA, WI 23711",
+            "issue_date": "13/07/2015",
+            "expiry_date": "10/09/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0035.jpg",
+        "bbox": [
+            0.5905068382944489,
+            0.6895388076490439,
+            0.7739340305711987,
+            0.8346456692913385
+        ],
+        "person_data": {
+            "full_name": "ALEC JENNINGS",
+            "nid_number": "549969827275",
+            "date_of_birth": "12/02/1996",
+            "place_of_birth": "COXTON",
+            "address": "42955 KELLIE ORCHARD APT. 081, LAKE TIMOTHY, NJ 05575",
+            "issue_date": "21/10/2024",
+            "expiry_date": "10/02/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0036.jpg",
+        "bbox": [
+            0.5013262599469496,
+            0.6075808249721293,
+            0.8452696728558797,
+            0.8138238573021181
+        ],
+        "person_data": {
+            "full_name": "AMY MENDOZA",
+            "nid_number": "173176822751",
+            "date_of_birth": "22/03/1943",
+            "place_of_birth": "THOMASFORT",
+            "address": "4461 CHEN CURVE APT. 998, NEW SUSAN, KS 96296",
+            "issue_date": "22/12/2023",
+            "expiry_date": "25/09/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0037.jpg",
+        "bbox": [
+            0.6081186572989852,
+            0.708421052631579,
+            0.7369242779078845,
+            0.7431578947368421
+        ],
+        "person_data": {
+            "full_name": "HEATHER MORRIS",
+            "nid_number": "962659520716",
+            "date_of_birth": "01/11/1967",
+            "place_of_birth": "PORT REGINALD",
+            "address": "1078 BURKE HEIGHTS, PORT BRENDABURY, CO 99829",
+            "issue_date": "12/03/2022",
+            "expiry_date": "17/12/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0038.jpg",
+        "bbox": [
+            0.5580448065173116,
+            0.7391304347826086,
+            0.9490835030549898,
+            0.6570048309178744
+        ],
+        "person_data": {
+            "full_name": "JOSHUA MUNOZ",
+            "nid_number": "977759174727",
+            "date_of_birth": "16/07/1972",
+            "place_of_birth": "NEW SAMUEL",
+            "address": "01835 JORGE CORNER APT. 022, MICHAELBURY, CT 47324",
+            "issue_date": "14/11/2017",
+            "expiry_date": "16/10/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0039.jpg",
+        "bbox": [
+            0.5,
+            0.6506364922206507,
+            0.7916666666666666,
+            1.0155586987270155
+        ],
+        "person_data": {
+            "full_name": "SAMUEL BAXTER PHD",
+            "nid_number": "693557935631",
+            "date_of_birth": "02/04/2007",
+            "place_of_birth": "ERIKAPORT",
+            "address": "966 MARY LOOP, MICHELLEBERG, WI 37406",
+            "issue_date": "15/03/2018",
+            "expiry_date": "19/01/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0040.jpg",
+        "bbox": [
+            0.5108135942327497,
+            0.4500587544065805,
+            0.9124613800205973,
+            0.7027027027027027
+        ],
+        "person_data": {
+            "full_name": "DENISE PATTERSON",
+            "nid_number": "955440395114",
+            "date_of_birth": "11/10/1935",
+            "place_of_birth": "NORTH MARGARETVILLE",
+            "address": "728 BRENDA CROSSROAD APT. 691, NEW ROBERTSHIRE, MI 51896",
+            "issue_date": "13/07/2021",
+            "expiry_date": "16/03/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0041.jpg",
+        "bbox": [
+            0.5891891891891892,
+            0.6595959595959596,
+            0.827027027027027,
+            0.6606060606060606
+        ],
+        "person_data": {
+            "full_name": "SHERRY COOK",
+            "nid_number": "861063156500",
+            "date_of_birth": "11/11/1991",
+            "place_of_birth": "SOUTH BRIANNA",
+            "address": "36732 ANA WAYS SUITE 009, JOHNSONTON, WA 98163",
+            "issue_date": "03/12/2020",
+            "expiry_date": "30/09/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0042.jpg",
+        "bbox": [
+            0.5681610247026533,
+            0.359026369168357,
+            0.8032936870997255,
+            0.592292089249493
+        ],
+        "person_data": {
+            "full_name": "MARIA HUDSON",
+            "nid_number": "234827545569",
+            "date_of_birth": "16/02/1939",
+            "place_of_birth": "EAST JUSTINLAND",
+            "address": "5953 ESPINOZA FORT APT. 279, JERRYMOUTH, AK 88694",
+            "issue_date": "19/09/2016",
+            "expiry_date": "03/04/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0043.jpg",
+        "bbox": [
+            0.5038232795242141,
+            0.6093928980526919,
+            0.8122344944774851,
+            0.8361970217640321
+        ],
+        "person_data": {
+            "full_name": "SAMANTHA CAMPBELL",
+            "nid_number": "825984992487",
+            "date_of_birth": "15/10/1957",
+            "place_of_birth": "LAKE KAYLAVILLE",
+            "address": "6266 DENISE PARKWAYS APT. 542, PORT REBECCA, NJ 90475",
+            "issue_date": "05/01/2020",
+            "expiry_date": "08/03/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0044.jpg",
+        "bbox": [
+            0.44958924570575054,
+            0.5,
+            0.655713218820015,
+            0.8111111111111111
+        ],
+        "person_data": {
+            "full_name": "CHRISTIAN BUTLER",
+            "nid_number": "408026248491",
+            "date_of_birth": "21/08/1973",
+            "place_of_birth": "JOSEPHFURT",
+            "address": "535 ESTES PLAZA SUITE 548, LAKE DANIELLAND, NE 27899",
+            "issue_date": "25/05/2023",
+            "expiry_date": "30/01/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0045.jpg",
+        "bbox": [
+            0.5137254901960784,
+            0.5746124031007752,
+            0.8921568627450981,
+            0.6201550387596899
+        ],
+        "person_data": {
+            "full_name": "SHEILA WARNER",
+            "nid_number": "918034871506",
+            "date_of_birth": "16/01/1985",
+            "place_of_birth": "THOMASSHIRE",
+            "address": "2796 COREY WALKS, NORTH CHRISTINETOWN, TX 02196",
+            "issue_date": "08/05/2020",
+            "expiry_date": "08/11/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0046.jpg",
+        "bbox": [
+            0.5936651583710407,
+            0.6354883081155434,
+            0.848868778280543,
+            0.9546079779917469
+        ],
+        "person_data": {
+            "full_name": "ANDREW RODRIGUEZ",
+            "nid_number": "869894436913",
+            "date_of_birth": "03/07/2000",
+            "place_of_birth": "EAST DAVID",
+            "address": "825 MCDONALD KEYS APT. 273, EVERETTCHESTER, MO 79722",
+            "issue_date": "30/05/2015",
+            "expiry_date": "04/12/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0047.jpg",
+        "bbox": [
+            0.4888888888888889,
+            0.4429882044560944,
+            0.7733333333333333,
+            0.747051114023591
+        ],
+        "person_data": {
+            "full_name": "LUKE THOMPSON",
+            "nid_number": "149865636214",
+            "date_of_birth": "06/02/1953",
+            "place_of_birth": "WEST CHERYLPORT",
+            "address": "85428 ROBERTS SPRINGS, COOPERBURGH, NH 33239",
+            "issue_date": "28/06/2017",
+            "expiry_date": "30/03/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0048.jpg",
+        "bbox": [
+            0.4612462006079027,
+            0.5440084835630965,
+            0.7218844984802432,
+            0.7613997879109226
+        ],
+        "person_data": {
+            "full_name": "KEITH VASQUEZ",
+            "nid_number": "558686687659",
+            "date_of_birth": "08/07/1937",
+            "place_of_birth": "BRANDONVIEW",
+            "address": "210 ROBERT CURVE SUITE 593, LAKE ANNA, FM 64410",
+            "issue_date": "30/11/2022",
+            "expiry_date": "15/06/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0049.jpg",
+        "bbox": [
+            0.4975222993062438,
+            0.5346784363177806,
+            0.8939544103072349,
+            0.7894073139974779
+        ],
+        "person_data": {
+            "full_name": "JOSHUA PHILLIPS",
+            "nid_number": "847016031152",
+            "date_of_birth": "06/08/1942",
+            "place_of_birth": "EAST MICHAEL",
+            "address": "66956 ABIGAIL SHOALS, LAKE CARLYLAND, NJ 35042",
+            "issue_date": "30/01/2025",
+            "expiry_date": "18/03/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0050.jpg",
+        "bbox": [
+            0.6184738955823293,
+            0.5487804878048781,
+            0.6987951807228916,
+            0.7723577235772358
+        ],
+        "person_data": {
+            "full_name": "ADRIAN PEARSON",
+            "nid_number": "690160098249",
+            "date_of_birth": "16/01/1975",
+            "place_of_birth": "HEATHERVIEW",
+            "address": "594 WATSON CRESCENT, PORT MARGARET, OH 18737",
+            "issue_date": "06/04/2020",
+            "expiry_date": "18/11/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0051.jpg",
+        "bbox": [
+            0.4619377162629758,
+            0.504524886877828,
+            0.801038062283737,
+            0.755656108597285
+        ],
+        "person_data": {
+            "full_name": "BRIAN CAMPOS",
+            "nid_number": "068732463250",
+            "date_of_birth": "10/05/2001",
+            "place_of_birth": "CLARKSHIRE",
+            "address": "862 BRITTANY MALL APT. 094, PORT LEONARDMOUTH, NH 70795",
+            "issue_date": "22/03/2022",
+            "expiry_date": "17/02/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0052.jpg",
+        "bbox": [
+            0.6129277566539924,
+            0.5332661290322581,
+            0.6798479087452471,
+            0.6189516129032258
+        ],
+        "person_data": {
+            "full_name": "JAMES CHEN",
+            "nid_number": "791248825326",
+            "date_of_birth": "13/11/1979",
+            "place_of_birth": "EAST JESSICASTAD",
+            "address": "9455 CHERYL TRACE SUITE 829, NEW SARAHSTAD, OH 62223",
+            "issue_date": "19/10/2022",
+            "expiry_date": "23/04/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0053.jpg",
+        "bbox": [
+            0.48366013071895425,
+            0.5621387283236994,
+            0.834733893557423,
+            0.8872832369942196
+        ],
+        "person_data": {
+            "full_name": "GINA GONZALEZ",
+            "nid_number": "361064056044",
+            "date_of_birth": "11/04/1977",
+            "place_of_birth": "MICHAELMOUTH",
+            "address": "088 KEVIN COVES APT. 210, NORTH MISTYPORT, GU 18061",
+            "issue_date": "09/06/2024",
+            "expiry_date": "09/05/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0054.jpg",
+        "bbox": [
+            0.5213849287169042,
+            0.5336391437308868,
+            0.8859470468431772,
+            0.8715596330275229
+        ],
+        "person_data": {
+            "full_name": "KIMBERLY SANTOS",
+            "nid_number": "422467610930",
+            "date_of_birth": "15/11/1941",
+            "place_of_birth": "FLOYDSIDE",
+            "address": "00551 EUGENE DRIVE, EAST SAVANNAHSTAD, MD 62208",
+            "issue_date": "21/07/2018",
+            "expiry_date": "03/08/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0055.jpg",
+        "bbox": [
+            0.43577981651376146,
+            0.6420150053590568,
+            0.6834862385321101,
+            0.6580921757770632
+        ],
+        "person_data": {
+            "full_name": "ALAN MARSHALL",
+            "nid_number": "162602320891",
+            "date_of_birth": "25/10/1963",
+            "place_of_birth": "WELLSBERG",
+            "address": "213 NIELSEN RIDGE, NEW KIMBERLYCHESTER, IL 95416",
+            "issue_date": "11/06/2016",
+            "expiry_date": "19/09/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0056.jpg",
+        "bbox": [
+            0.5697777777777778,
+            0.6008583690987125,
+            0.8444444444444444,
+            1.0271816881258942
+        ],
+        "person_data": {
+            "full_name": "SAMANTHA WALTER",
+            "nid_number": "663959494069",
+            "date_of_birth": "09/10/1986",
+            "place_of_birth": "NORTH DAWNSIDE",
+            "address": "195 LAURA VILLAGE APT. 097, CHARLESMOUTH, VA 90834",
+            "issue_date": "20/06/2017",
+            "expiry_date": "01/09/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0057.jpg",
+        "bbox": [
+            0.4305785123966942,
+            0.40894568690095845,
+            0.7454545454545455,
+            0.6666666666666666
+        ],
+        "person_data": {
+            "full_name": "HEATHER FORD",
+            "nid_number": "055053072869",
+            "date_of_birth": "27/10/1941",
+            "place_of_birth": "NORTH TERRI",
+            "address": "UNIT 0744 BOX 2411, DPO AA 96001",
+            "issue_date": "05/04/2023",
+            "expiry_date": "27/01/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0058.jpg",
+        "bbox": [
+            0.5307612095933264,
+            0.6478405315614618,
+            0.940563086548488,
+            0.6932447397563677
+        ],
+        "person_data": {
+            "full_name": "ANDRE MARTINEZ",
+            "nid_number": "738252510544",
+            "date_of_birth": "15/12/1967",
+            "place_of_birth": "HUBERBURY",
+            "address": "282 CATHERINE EXTENSIONS SUITE 677, SUSANVIEW, UT 60880",
+            "issue_date": "12/07/2015",
+            "expiry_date": "05/01/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0059.jpg",
+        "bbox": [
+            0.41306122448979593,
+            0.55053974484789,
+            0.6938775510204082,
+            0.5299313052011776
+        ],
+        "person_data": {
+            "full_name": "JEANETTE BERNARD",
+            "nid_number": "245759189086",
+            "date_of_birth": "27/08/1951",
+            "place_of_birth": "EAST CINDY",
+            "address": "087 RUSH PASS, PAULCHESTER, ND 12257",
+            "issue_date": "05/06/2019",
+            "expiry_date": "27/04/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0060.jpg",
+        "bbox": [
+            0.5151515151515151,
+            0.4785788923719958,
+            0.7946127946127947,
+            0.7377220480668757
+        ],
+        "person_data": {
+            "full_name": "KIMBERLY ROBERTSON",
+            "nid_number": "128803988737",
+            "date_of_birth": "28/08/1944",
+            "place_of_birth": "VALERIEVIEW",
+            "address": "USS BROWN, FPO AE 38458",
+            "issue_date": "10/09/2021",
+            "expiry_date": "30/05/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0061.jpg",
+        "bbox": [
+            0.6616719242902208,
+            0.4605647517039922,
+            0.7539432176656151,
+            0.7108081791626095
+        ],
+        "person_data": {
+            "full_name": "JAMES KIM JR.",
+            "nid_number": "286935886703",
+            "date_of_birth": "22/01/1944",
+            "place_of_birth": "NORTH DUANESTAD",
+            "address": "6606 HELEN KNOLL APT. 097, BROWNSHIRE, MT 75207",
+            "issue_date": "13/11/2018",
+            "expiry_date": "17/07/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0062.jpg",
+        "bbox": [
+            0.5386158475426279,
+            0.7477744807121661,
+            0.9528585757271816,
+            0.7101879327398615
+        ],
+        "person_data": {
+            "full_name": "RANDY RICHARD",
+            "nid_number": "602791607913",
+            "date_of_birth": "01/07/1989",
+            "place_of_birth": "SOUTH WENDYMOUTH",
+            "address": "6964 WILLIAMS LIGHT APT. 559, NORTH JENNIFER, MT 02101",
+            "issue_date": "02/01/2025",
+            "expiry_date": "20/06/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0063.jpg",
+        "bbox": [
+            0.4956217162872154,
+            0.5410691003911343,
+            0.7530647985989493,
+            0.7249022164276402
+        ],
+        "person_data": {
+            "full_name": "CINDY LEWIS",
+            "nid_number": "099679453626",
+            "date_of_birth": "06/08/1980",
+            "place_of_birth": "KINGCHESTER",
+            "address": "98691 MICHAEL SHORES, LAKE SUSAN, AL 10515",
+            "issue_date": "12/12/2021",
+            "expiry_date": "06/05/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0064.jpg",
+        "bbox": [
+            0.5414141414141415,
+            0.5011086474501109,
+            0.9474747474747475,
+            0.7694013303769401
+        ],
+        "person_data": {
+            "full_name": "BRADLEY MILLER",
+            "nid_number": "594833159067",
+            "date_of_birth": "02/04/1961",
+            "place_of_birth": "CLAYTONCHESTER",
+            "address": "321 HOLT DIVIDE, SARAHTOWN, AS 31525",
+            "issue_date": "10/05/2015",
+            "expiry_date": "07/11/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0065.jpg",
+        "bbox": [
+            0.5681818181818182,
+            0.5528350515463918,
+            0.6739811912225705,
+            0.7164948453608248
+        ],
+        "person_data": {
+            "full_name": "ANNA RAMSEY",
+            "nid_number": "219229493571",
+            "date_of_birth": "08/05/1968",
+            "place_of_birth": "LAKE JULIE",
+            "address": "525 NEWMAN WAY SUITE 265, MIRANDASTAD, AL 01764",
+            "issue_date": "02/08/2023",
+            "expiry_date": "11/02/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0066.jpg",
+        "bbox": [
+            0.5367088607594936,
+            0.6865509761388287,
+            0.7611814345991561,
+            0.6789587852494577
+        ],
+        "person_data": {
+            "full_name": "SUSAN BRADY",
+            "nid_number": "273101576851",
+            "date_of_birth": "19/12/1976",
+            "place_of_birth": "PORT WILLIAMFURT",
+            "address": "8814 KATHY PLAZA SUITE 963, SOUTH PRESTON, FL 20874",
+            "issue_date": "17/12/2022",
+            "expiry_date": "27/12/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0067.jpg",
+        "bbox": [
+            0.4403048264182896,
+            0.4982973893303065,
+            0.7705334462320068,
+            0.7264472190692395
+        ],
+        "person_data": {
+            "full_name": "SUSAN THOMAS",
+            "nid_number": "928373075666",
+            "date_of_birth": "24/01/1997",
+            "place_of_birth": "ARMSTRONGPORT",
+            "address": "637 DERRICK FALLS, PORT RICHARD, DC 03757",
+            "issue_date": "23/10/2019",
+            "expiry_date": "29/11/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0068.jpg",
+        "bbox": [
+            0.5010504201680672,
+            0.5040983606557377,
+            0.8928571428571429,
+            0.5532786885245902
+        ],
+        "person_data": {
+            "full_name": "CHRISTIAN ALEXANDER",
+            "nid_number": "230398291711",
+            "date_of_birth": "13/05/1980",
+            "place_of_birth": "EVANSPORT",
+            "address": "49609 RODRIGUEZ LOOP APT. 220, NEW SEAN, SD 68249",
+            "issue_date": "07/05/2018",
+            "expiry_date": "12/11/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0069.jpg",
+        "bbox": [
+            0.5454545454545454,
+            0.5857558139534884,
+            0.8503213957759412,
+            0.9709302325581395
+        ],
+        "person_data": {
+            "full_name": "JONATHAN GREEN",
+            "nid_number": "644617732356",
+            "date_of_birth": "28/04/1942",
+            "place_of_birth": "PORT STEVEN",
+            "address": "8370 MEZA DALE SUITE 652, NORTH ROBERTTON, TN 44535",
+            "issue_date": "28/08/2017",
+            "expiry_date": "03/09/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0070.jpg",
+        "bbox": [
+            0.5587958607714016,
+            0.6385896180215475,
+            0.8824082784571966,
+            0.6797257590597453
+        ],
+        "person_data": {
+            "full_name": "GARY HOUSTON",
+            "nid_number": "207195442662",
+            "date_of_birth": "08/01/2005",
+            "place_of_birth": "SOUTH LAURA",
+            "address": "72202 CRYSTAL CORNER, RODNEYVILLE, SC 32886",
+            "issue_date": "24/06/2024",
+            "expiry_date": "26/03/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0071.jpg",
+        "bbox": [
+            0.5247225025227044,
+            0.5170454545454546,
+            0.9021190716448032,
+            0.8721590909090909
+        ],
+        "person_data": {
+            "full_name": "SARAH MADDEN",
+            "nid_number": "903871701607",
+            "date_of_birth": "11/11/1941",
+            "place_of_birth": "TAYLORSTAD",
+            "address": "4713 ANDREA VILLAGE, NORTH HOLLY, SC 51173",
+            "issue_date": "29/05/2016",
+            "expiry_date": "27/11/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0072.jpg",
+        "bbox": [
+            0.5140771637122002,
+            0.41316685584562995,
+            0.9238790406673618,
+            0.6787741203178207
+        ],
+        "person_data": {
+            "full_name": "SHARON MURPHY",
+            "nid_number": "204587278560",
+            "date_of_birth": "17/02/1955",
+            "place_of_birth": "AMANDASHIRE",
+            "address": "905 CHRISTINA RUE SUITE 351, NORTH NANCYSHIRE, MA 15893",
+            "issue_date": "27/11/2017",
+            "expiry_date": "08/11/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0073.jpg",
+        "bbox": [
+            0.46639676113360323,
+            0.48428290766208254,
+            0.7789473684210526,
+            0.7288801571709234
+        ],
+        "person_data": {
+            "full_name": "GARY JACKSON",
+            "nid_number": "753754244585",
+            "date_of_birth": "23/05/1948",
+            "place_of_birth": "ROBINSONHAVEN",
+            "address": "34343 NELSON STRAVENUE SUITE 388, PORT NOAH, CA 66802",
+            "issue_date": "24/08/2021",
+            "expiry_date": "04/09/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0074.jpg",
+        "bbox": [
+            0.5527093596059113,
+            0.5456545654565457,
+            0.9044334975369458,
+            0.7194719471947195
+        ],
+        "person_data": {
+            "full_name": "KENNETH EVANS",
+            "nid_number": "810616699870",
+            "date_of_birth": "27/07/1971",
+            "place_of_birth": "SHAWNVILLE",
+            "address": "27638 BILLY FORKS APT. 101, LAKE JAMES, GA 59253",
+            "issue_date": "20/12/2019",
+            "expiry_date": "03/03/2028"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0075.jpg",
+        "bbox": [
+            0.48253968253968255,
+            0.5434782608695652,
+            0.6968253968253968,
+            0.7468030690537084
+        ],
+        "person_data": {
+            "full_name": "DWAYNE NELSON",
+            "nid_number": "977796900958",
+            "date_of_birth": "29/03/1951",
+            "place_of_birth": "PAULASTAD",
+            "address": "9205 HOLLY CROSSROAD SUITE 560, GARCIAVILLE, AS 27182",
+            "issue_date": "05/03/2024",
+            "expiry_date": "10/10/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0076.jpg",
+        "bbox": [
+            0.5301837270341208,
+            0.3971553610503282,
+            0.7681539807524059,
+            0.6389496717724289
+        ],
+        "person_data": {
+            "full_name": "TERESA REEVES",
+            "nid_number": "082088592061",
+            "date_of_birth": "17/10/1999",
+            "place_of_birth": "LAKE ZACHARYLAND",
+            "address": "79476 HALL RANCH APT. 546, LAURATON, NM 87040",
+            "issue_date": "25/02/2019",
+            "expiry_date": "08/01/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0077.jpg",
+        "bbox": [
+            0.5353634577603144,
+            0.5327564894932015,
+            0.9017681728880157,
+            0.8084054388133498
+        ],
+        "person_data": {
+            "full_name": "MADELINE MOORE",
+            "nid_number": "790535217108",
+            "date_of_birth": "29/03/1937",
+            "place_of_birth": "EAST DAVID",
+            "address": "538 DARREN ISLE APT. 451, PORT GARYMOUTH, MD 60296",
+            "issue_date": "18/06/2020",
+            "expiry_date": "19/10/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0078.jpg",
+        "bbox": [
+            0.49368968077208614,
+            0.5142517814726841,
+            0.7097253155159614,
+            0.8669833729216152
+        ],
+        "person_data": {
+            "full_name": "MATTHEW ARCHER",
+            "nid_number": "610639453626",
+            "date_of_birth": "16/03/1980",
+            "place_of_birth": "KINGBURGH",
+            "address": "1502 GARCIA KEY APT. 625, KEVINCHESTER, AZ 65256",
+            "issue_date": "01/12/2016",
+            "expiry_date": "14/04/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0079.jpg",
+        "bbox": [
+            0.6236722306525038,
+            0.41423948220064727,
+            0.6965098634294385,
+            0.7055016181229773
+        ],
+        "person_data": {
+            "full_name": "LINDSEY SANCHEZ",
+            "nid_number": "475584324981",
+            "date_of_birth": "07/11/1937",
+            "place_of_birth": "EDWINLAND",
+            "address": "603 KEVIN FREEWAY APT. 599, VICTORIALAND, MH 45948",
+            "issue_date": "18/05/2023",
+            "expiry_date": "25/02/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0080.jpg",
+        "bbox": [
+            0.546462063086104,
+            0.6616915422885572,
+            0.7894288150042625,
+            0.6646766169154229
+        ],
+        "person_data": {
+            "full_name": "MOLLY HUNT",
+            "nid_number": "861787373628",
+            "date_of_birth": "08/03/1988",
+            "place_of_birth": "OLSONBOROUGH",
+            "address": "8138 NICOLE SQUARE, BRUCEFORT, WA 43831",
+            "issue_date": "19/09/2023",
+            "expiry_date": "25/03/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0081.jpg",
+        "bbox": [
+            0.5363724539282251,
+            0.5832106038291606,
+            0.903976721629486,
+            1.0014727540500736
+        ],
+        "person_data": {
+            "full_name": "HANNAH BELL",
+            "nid_number": "184281129454",
+            "date_of_birth": "19/09/1980",
+            "place_of_birth": "ADAMMOUTH",
+            "address": "28132 PRISCILLA OVAL, SOUTH THOMAS, AL 81342",
+            "issue_date": "19/11/2018",
+            "expiry_date": "12/02/2035"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0082.jpg",
+        "bbox": [
+            0.6027272727272728,
+            0.5636561479869423,
+            0.8472727272727273,
+            0.7399347116430903
+        ],
+        "person_data": {
+            "full_name": "MONIQUE ROSE",
+            "nid_number": "649145211697",
+            "date_of_birth": "05/09/1975",
+            "place_of_birth": "PORT MARY",
+            "address": "72126 ROBERT VIEWS SUITE 595, NORTH TAMMY, NE 36486",
+            "issue_date": "05/09/2016",
+            "expiry_date": "31/12/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0083.jpg",
+        "bbox": [
+            0.4806985294117647,
+            0.6533333333333333,
+            0.8566176470588235,
+            0.9066666666666666
+        ],
+        "person_data": {
+            "full_name": "BRIAN WILLIAMS",
+            "nid_number": "180031231783",
+            "date_of_birth": "10/08/1991",
+            "place_of_birth": "MICHAELHAVEN",
+            "address": "1869 CARLSON GREEN, NORTH JOSE, ME 62343",
+            "issue_date": "04/05/2020",
+            "expiry_date": "15/07/2031"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0084.jpg",
+        "bbox": [
+            0.45948136142625606,
+            0.6514522821576764,
+            0.7747163695299838,
+            1.0096818810511756
+        ],
+        "person_data": {
+            "full_name": "KIMBERLY WILLIAMS",
+            "nid_number": "674759758107",
+            "date_of_birth": "12/10/1985",
+            "place_of_birth": "SOUTH JACOB",
+            "address": "8841 POPE SQUARES APT. 045, KINGTOWN, ID 06742",
+            "issue_date": "24/04/2022",
+            "expiry_date": "29/09/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0085.jpg",
+        "bbox": [
+            0.4871086556169429,
+            0.5643203883495146,
+            0.852670349907919,
+            0.8106796116504854
+        ],
+        "person_data": {
+            "full_name": "WENDY RODRIGUEZ",
+            "nid_number": "387865410770",
+            "date_of_birth": "09/11/1935",
+            "place_of_birth": "DAVENPORTMOUTH",
+            "address": "81750 SAMANTHA FORGE SUITE 459, MEAGANCHESTER, KY 19171",
+            "issue_date": "30/01/2016",
+            "expiry_date": "21/06/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0086.jpg",
+        "bbox": [
+            0.42016806722689076,
+            0.44382801664355065,
+            0.6493506493506493,
+            0.7489597780859917
+        ],
+        "person_data": {
+            "full_name": "REGINA WASHINGTON",
+            "nid_number": "840446824619",
+            "date_of_birth": "04/09/1936",
+            "place_of_birth": "ROACHFORT",
+            "address": "UNIT 7939 BOX 6163, DPO AP 38696",
+            "issue_date": "18/01/2016",
+            "expiry_date": "08/09/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0087.jpg",
+        "bbox": [
+            0.5675675675675675,
+            0.3723756906077348,
+            0.7263513513513513,
+            0.6143646408839779
+        ],
+        "person_data": {
+            "full_name": "HANNAH FISHER",
+            "nid_number": "505663175240",
+            "date_of_birth": "29/05/1965",
+            "place_of_birth": "SOUTH REBECCA",
+            "address": "UNIT 0814 BOX 6279, DPO AE 32092",
+            "issue_date": "27/05/2016",
+            "expiry_date": "06/05/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0088.jpg",
+        "bbox": [
+            0.4315315315315315,
+            0.4803788903924222,
+            0.7657657657657657,
+            0.7307171853856563
+        ],
+        "person_data": {
+            "full_name": "LISA WILKERSON",
+            "nid_number": "069294379061",
+            "date_of_birth": "10/05/1999",
+            "place_of_birth": "NORTH JACQUELINE",
+            "address": "UNIT 8993 BOX 9980, DPO AE 96480",
+            "issue_date": "28/07/2024",
+            "expiry_date": "05/03/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0089.jpg",
+        "bbox": [
+            0.5025853154084798,
+            0.614207650273224,
+            0.889348500517063,
+            0.6076502732240437
+        ],
+        "person_data": {
+            "full_name": "ALBERT JOHNSON",
+            "nid_number": "008816362388",
+            "date_of_birth": "29/12/1936",
+            "place_of_birth": "PORT ROBERTFURT",
+            "address": "42375 ASHLEY KNOLLS SUITE 737, PORT KEVIN, ME 09921",
+            "issue_date": "07/07/2017",
+            "expiry_date": "30/01/2032"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0090.jpg",
+        "bbox": [
+            0.510556621880998,
+            0.5058309037900874,
+            0.8349328214971209,
+            0.8309037900874635
+        ],
+        "person_data": {
+            "full_name": "CINDY WILLIAMS",
+            "nid_number": "818132787459",
+            "date_of_birth": "06/04/1998",
+            "place_of_birth": "DAVIDPORT",
+            "address": "057 MORGAN BRIDGE, WALKERHAVEN, FM 07791",
+            "issue_date": "16/05/2021",
+            "expiry_date": "20/04/2029"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0091.jpg",
+        "bbox": [
+            0.5510396975425331,
+            0.6137040714995035,
+            0.8128544423440454,
+            0.5521350546176763
+        ],
+        "person_data": {
+            "full_name": "OLIVIA CARSON",
+            "nid_number": "999256944799",
+            "date_of_birth": "11/08/1998",
+            "place_of_birth": "PORT STEPHANIE",
+            "address": "366 WEBER PINE, NEW BRANDY, NM 68024",
+            "issue_date": "13/12/2022",
+            "expiry_date": "01/01/2026"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0092.jpg",
+        "bbox": [
+            0.41122213681783243,
+            0.636466591166478,
+            0.6610299769408148,
+            0.6296715741789355
+        ],
+        "person_data": {
+            "full_name": "KRISTEN HARRISON",
+            "nid_number": "909679157330",
+            "date_of_birth": "05/03/1936",
+            "place_of_birth": "WEST JUSTIN",
+            "address": "386 JAMES ESTATES, SOUTH MICHAELVILLE, MO 52002",
+            "issue_date": "12/02/2025",
+            "expiry_date": "15/08/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0093.jpg",
+        "bbox": [
+            0.5953488372093023,
+            0.6977911646586346,
+            0.8837209302325582,
+            0.7208835341365462
+        ],
+        "person_data": {
+            "full_name": "NICHOLAS BLAIR",
+            "nid_number": "906565591616",
+            "date_of_birth": "25/01/1982",
+            "place_of_birth": "NEW MICHELE",
+            "address": "062 MARTIN FREEWAY, CARRBURY, AZ 46046",
+            "issue_date": "19/04/2018",
+            "expiry_date": "01/11/2030"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0094.jpg",
+        "bbox": [
+            0.5077369439071566,
+            0.6611909650924025,
+            0.8955512572533849,
+            0.6858316221765913
+        ],
+        "person_data": {
+            "full_name": "ELIZABETH MARTIN",
+            "nid_number": "415942254700",
+            "date_of_birth": "19/09/1967",
+            "place_of_birth": "EAST ALFRED",
+            "address": "24155 NICOLE TUNNEL, LAKE CAROLYNTON, SD 88563",
+            "issue_date": "08/11/2024",
+            "expiry_date": "18/06/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0095.jpg",
+        "bbox": [
+            0.6089527027027027,
+            0.5286016949152542,
+            0.7550675675675675,
+            0.6504237288135594
+        ],
+        "person_data": {
+            "full_name": "SCOTT SALAZAR",
+            "nid_number": "849893487587",
+            "date_of_birth": "22/07/1956",
+            "place_of_birth": "EAST DAVID",
+            "address": "1350 JESSE NECK SUITE 811, LAKE TROYBURGH, AL 47164",
+            "issue_date": "22/02/2019",
+            "expiry_date": "14/02/2033"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0096.jpg",
+        "bbox": [
+            0.5606343283582089,
+            0.6354799513973268,
+            0.8414179104477612,
+            0.7606318347509113
+        ],
+        "person_data": {
+            "full_name": "KAYLA STOKES",
+            "nid_number": "038154273849",
+            "date_of_birth": "21/02/1952",
+            "place_of_birth": "SHANNONTOWN",
+            "address": "201 NOVAK VILLE APT. 327, MCLEANVILLE, GA 97784",
+            "issue_date": "29/11/2019",
+            "expiry_date": "12/07/2025"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0097.jpg",
+        "bbox": [
+            0.4897579143389199,
+            0.6802083333333333,
+            0.8100558659217877,
+            0.59375
+        ],
+        "person_data": {
+            "full_name": "MATTHEW DAVIS",
+            "nid_number": "473189454590",
+            "date_of_birth": "23/12/1985",
+            "place_of_birth": "LAURASIDE",
+            "address": "1865 DAVIS CROSSROAD SUITE 303, WEST ERIN, KY 69057",
+            "issue_date": "02/10/2024",
+            "expiry_date": "09/05/2027"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0098.jpg",
+        "bbox": [
+            0.46035805626598464,
+            0.5649509803921569,
+            0.7894288150042625,
+            0.8186274509803921
+        ],
+        "person_data": {
+            "full_name": "NATHAN JENNINGS",
+            "nid_number": "311774713569",
+            "date_of_birth": "07/12/1948",
+            "place_of_birth": "EAST LISAFURT",
+            "address": "7501 CRAIG PASSAGE SUITE 724, NEW SHERRY, ID 98334",
+            "issue_date": "06/10/2019",
+            "expiry_date": "13/10/2034"
+        }
+    },
+    {
+        "image_path": "synthetic_nid_dataset/images/nid_0099.jpg",
+        "bbox": [
+            0.46110210696920584,
+            0.6590126291618829,
+            0.7747163695299838,
+            0.8381171067738232
+        ],
+        "person_data": {
+            "full_name": "SAMANTHA JONES",
+            "nid_number": "036130182865",
+            "date_of_birth": "11/01/1942",
+            "place_of_birth": "WEST SHERRYFURT",
+            "address": "5140 GRAY SQUARES SUITE 937, NORTH SCOTT, VT 76990",
+            "issue_date": "05/03/2023",
+            "expiry_date": "17/07/2034"
+        }
+    }
+]

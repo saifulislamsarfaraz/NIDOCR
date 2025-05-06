@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saifu/OneDrive/Desktop/NIDOCR/mlruns/940990611600546511/a1281d26b4034a16a91156373d26118f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '940990611600546511'
+lifecycle_stage: active
+run_id: a1281d26b4034a16a91156373d26118f
+run_name: rare-carp-910
+run_uuid: a1281d26b4034a16a91156373d26118f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746520368370
+status: 1
+tags: []
+user_id: saifu
