@@ -1,2 +1,6 @@
-tensorflow
 easyocr
+fastapi
+uvicorn[standard]
+streamlit
+ultralytics
+python-multipart
